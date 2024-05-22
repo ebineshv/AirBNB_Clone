@@ -1,0 +1,1 @@
+This project is a simple clone of the Airbnb website using HTML and CSS. The goal is to replicate the basic look and layout of Airbnb’s user interface. During this project I have improved my skills in designing web pages.
